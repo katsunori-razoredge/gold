@@ -1,0 +1,85 @@
+pre {
+	margin: 0;
+}
+
+.function {
+	border: 1px silver solid;
+	background-color: rgba(200, 200, 200, 1.0);
+	color: rgba(100, 100, 100, 1.0);
+}
+
+.button {
+#	width: 25%;
+	border: 1px silver solid;
+	background-color: rgba(200, 200, 200, 1.0);
+	color: rgba(100, 100, 100, 1.0);
+}
+
+.button:hover {
+	color: rgba(255, 255, 255, 1.0);
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    width: 120px;
+    left: 50%;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip-bottom {
+    top: 135%; left: 50%;
+}
+
+.tooltip-bottom::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 10%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #555 transparent;
+}
+
+.ColorMatForPif {
+    color: white;    
+    background-color: rgb(0, 100, 0);
+}
+
+.HandTag {
+    color: white;    
+    background-color: rgb(0, 255, 0);
+}
+
+.Variable {
+    color: blue;
+}
+
+.Tag {
+    color: white;
+    background-color: pink;
+}

@@ -1,0 +1,547 @@
+[01-Jul-2016 22:46:21 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 22:47:10 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:47:11 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:48:05 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:41 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:42 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:43 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:43 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:43 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:43 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:44 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:44 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:44 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:45 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:50:45 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:54:29 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 22:54:30 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 23:01:19 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 23:01:20 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 23:01:21 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 23:05:41 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 23:05:43 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 2
+[01-Jul-2016 23:14:31 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportDesignerController.php on line 5
+[01-Jul-2016 23:14:32 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportDesignerController.php on line 5
+[01-Jul-2016 23:14:32 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportDesignerController.php on line 5
+[01-Jul-2016 23:14:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportDesignerController.php on line 5
+[01-Jul-2016 23:14:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportDesignerController.php on line 5
+[01-Jul-2016 23:14:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportDesignerController.php on line 5
+[01-Jul-2016 23:14:34 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportDesignerController.php on line 5
+[01-Jul-2016 23:14:34 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportDesignerController.php on line 5
+[01-Jul-2016 23:32:38 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:32:39 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:32:39 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:32:39 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:32:39 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:32:39 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:32:40 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:32:40 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:32:40 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:04 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:04 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:05 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:05 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:05 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:05 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:58 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:59 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:59 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:59 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:33:59 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:34:53 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:34:53 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:34:53 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 5
+[01-Jul-2016 23:44:29 UTC] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/vps100825437/public_html/cakephp-2.4.4/app/View/SportDesigner/index.ctp on line 4
+[11-Jun-2017 00:33:30 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './DbAccessObject.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/RazorEdge/interface_of_visitor.php on line 2
+[11-Jun-2017 00:33:33 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './DbAccessObject.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/RazorEdge/interface_of_visitor.php on line 2
+[11-Jun-2017 03:45:27 UTC] PHP Fatal error:  Class 'ToAnalyzeModel' not found in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 8
+[11-Jun-2017 03:46:34 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:46:36 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:46:36 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:46:37 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:46:38 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:46:53 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:46:54 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:47:22 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:47:23 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:47:24 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:47:25 UTC] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required './Model/ToAnalyzeModel.php' (include_path='/home/vps100825437/public_html/cakephp-2.4.4/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 3
+[11-Jun-2017 03:49:28 UTC] PHP Fatal error:  Call to undefined function import() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 6
+[11-Jun-2017 03:49:30 UTC] PHP Fatal error:  Call to undefined function import() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 6
+[11-Jun-2017 03:49:31 UTC] PHP Fatal error:  Call to undefined function import() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 6
+[11-Jun-2017 03:49:31 UTC] PHP Fatal error:  Call to undefined function import() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/DoDesignerController.php on line 6
+[11-Jun-2017 03:51:25 UTC] PHP Parse error:  syntax error, unexpected 'exteds' (T_STRING), expecting '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/ToAnalyzeModel.php on line 3
+[11-Jun-2017 03:51:26 UTC] PHP Parse error:  syntax error, unexpected 'exteds' (T_STRING), expecting '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/ToAnalyzeModel.php on line 3
+[11-Jun-2017 03:51:27 UTC] PHP Parse error:  syntax error, unexpected 'exteds' (T_STRING), expecting '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/ToAnalyzeModel.php on line 3
+[11-Jun-2017 03:51:27 UTC] PHP Parse error:  syntax error, unexpected 'exteds' (T_STRING), expecting '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/ToAnalyzeModel.php on line 3
+[11-Jun-2017 03:51:58 UTC] PHP Fatal error:  Cannot redeclare class ToAnalizeModel in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/ToAnalyzeModel.php on line 0
+[11-Jun-2017 03:52:00 UTC] PHP Fatal error:  Cannot redeclare class ToAnalizeModel in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/ToAnalyzeModel.php on line 0
+[11-Jun-2017 03:52:53 UTC] PHP Fatal error:  Cannot redeclare class ToAnalizeModel in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/ToAnalyzeModel.php on line 0
+[16-Jun-2017 14:32:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 16
+[16-Jun-2017 14:40:56 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 51
+[16-Jun-2017 14:40:57 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 51
+[16-Jun-2017 14:40:57 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 51
+[16-Jun-2017 14:40:57 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 51
+[16-Jun-2017 14:40:58 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 51
+[16-Jun-2017 14:41:18 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 51
+[16-Jun-2017 14:41:19 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 51
+[16-Jun-2017 14:41:19 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 51
+[16-Jun-2017 14:42:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 50
+[16-Jun-2017 14:42:08 UTC] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 50
+[16-Jun-2017 14:42:23 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 55
+[16-Jun-2017 14:42:24 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 55
+[16-Jun-2017 14:42:24 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 55
+[16-Jun-2017 14:42:25 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 55
+[16-Jun-2017 14:42:27 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 55
+[16-Jun-2017 14:47:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[16-Jun-2017 14:47:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[16-Jun-2017 14:47:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[16-Jun-2017 14:47:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[16-Jun-2017 14:47:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[16-Jun-2017 14:47:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[16-Jun-2017 14:47:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[16-Jun-2017 14:47:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[16-Jun-2017 14:48:07 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[16-Jun-2017 14:48:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[16-Jun-2017 14:48:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 11
+[17-Jun-2017 21:25:39 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:10 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:12 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:15 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:16 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:17 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:19 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:21 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:25 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:28 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:33 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:36 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:37 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:38 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:26:39 UTC] PHP Fatal error:  Call to undefined method UsersController::loadMode() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 14
+[17-Jun-2017 21:33:01 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 20
+[17-Jun-2017 22:06:30 UTC] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 57
+[17-Jun-2017 22:06:32 UTC] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/AppController.php on line 57
+[17-Jun-2017 22:33:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 20
+[17-Jun-2017 22:34:51 UTC] PHP Parse error:  syntax error, unexpected '',' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/User.php on line 14
+[17-Jun-2017 22:34:53 UTC] PHP Parse error:  syntax error, unexpected '',' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/User.php on line 14
+[25-Jun-2017 00:37:34 UTC] PHP Fatal error:  Call to undefined function import() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 8
+[25-Jun-2017 00:37:43 UTC] PHP Fatal error:  Call to undefined function import() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 8
+[25-Jun-2017 00:38:45 UTC] PHP Fatal error:  Class 'Www2w' not found in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 9
+[25-Jun-2017 00:39:09 UTC] PHP Fatal error:  Class 'Www2w' not found in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 9
+[25-Jun-2017 00:39:12 UTC] PHP Fatal error:  Class 'Www2w' not found in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 9
+[25-Jun-2017 00:39:26 UTC] PHP Fatal error:  Class 'Www2w' not found in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 9
+[25-Jun-2017 00:39:28 UTC] PHP Fatal error:  Class 'Www2w' not found in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 9
+[25-Jun-2017 00:39:30 UTC] PHP Fatal error:  Class 'Www2w' not found in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 9
+[25-Jun-2017 00:39:32 UTC] PHP Fatal error:  Class 'Www2w' not found in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 9
+[25-Jun-2017 00:39:34 UTC] PHP Fatal error:  Class 'Www2w' not found in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 9
+[25-Jun-2017 00:54:37 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 12
+[25-Jun-2017 00:54:40 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 12
+[25-Jun-2017 01:07:15 UTC] PHP Fatal error:  Call to undefined function execute() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 18
+[25-Jun-2017 01:07:57 UTC] PHP Fatal error:  Call to undefined function execute() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 18
+[25-Jun-2017 01:09:26 UTC] PHP Fatal error:  Call to undefined function execute() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 18
+[25-Jun-2017 01:09:32 UTC] PHP Fatal error:  Call to undefined function execute() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 18
+[25-Jun-2017 01:10:30 UTC] PHP Fatal error:  Call to undefined function execute() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 18
+[25-Jun-2017 01:10:33 UTC] PHP Fatal error:  Call to undefined function execute() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 18
+[25-Jun-2017 01:10:35 UTC] PHP Fatal error:  Call to undefined function execute() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 18
+[25-Jun-2017 01:17:39 UTC] PHP Fatal error:  Call to undefined function execute() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 18
+[25-Jun-2017 01:29:28 UTC] PHP Fatal error:  Cannot redeclare class Www2wModel in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 0
+[25-Jun-2017 01:29:37 UTC] PHP Fatal error:  Cannot redeclare class Www2wModel in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 0
+[25-Jun-2017 01:29:42 UTC] PHP Fatal error:  Cannot redeclare class Www2wModel in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 0
+[25-Jun-2017 01:29:49 UTC] PHP Fatal error:  Cannot redeclare class Www2wModel in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 0
+[25-Jun-2017 01:29:53 UTC] PHP Fatal error:  Cannot redeclare class Www2wModel in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 0
+[25-Jun-2017 01:31:11 UTC] PHP Fatal error:  Call to undefined function selectDB() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 19
+[25-Jun-2017 01:32:10 UTC] PHP Fatal error:  Call to undefined function selectDB() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 19
+[25-Jun-2017 01:56:49 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 7
+[25-Jun-2017 01:57:33 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 7
+[25-Jun-2017 02:21:26 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 32
+[25-Jun-2017 02:21:30 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 32
+[25-Jun-2017 02:21:34 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 32
+[25-Jun-2017 02:21:57 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 32
+[25-Jun-2017 02:22:00 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 32
+[25-Jun-2017 02:22:07 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 32
+[25-Jun-2017 04:10:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 32
+[25-Jun-2017 04:10:24 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Www2w.php on line 32
+[01-Jul-2017 08:11:51 UTC] PHP Fatal error:  Class 'ConnectionManager' not found in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/ControversialEditorController.php on line 5
+[01-Jul-2017 08:24:08 UTC] PHP Parse error:  syntax error, unexpected 'publlic' (T_STRING), expecting function (T_FUNCTION) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 47
+[01-Jul-2017 08:24:29 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 47
+[01-Jul-2017 08:24:32 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 47
+[01-Jul-2017 08:34:47 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:27 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:29 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:30 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:30 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:31 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:31 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:31 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:31 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:31 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:32 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:32 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:32 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:33 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:33 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:33 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:34 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:34 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:34 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:35 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:35 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:35 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:36 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:36 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:37 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:37 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:37 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:38 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:39 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:40 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:40 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:41 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:41 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:42 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:42 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:43 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:43 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:43 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:44 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:44 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:44 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:45 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:46 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:35:46 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:41:53 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:41:54 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:41:56 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:27 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:28 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:28 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:29 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:29 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:30 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:30 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:30 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:31 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:31 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:31 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:32 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:32 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:32 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:32 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:33 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:33 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:34 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:34 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:34 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:34 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:35 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:35 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:35 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:36 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:36 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:36 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:36 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:37 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:37 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:37 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:37 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:38 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:38 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:38 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:39 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:39 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:40 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:40 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:41 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:42 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:42 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:43 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:43 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:44 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:45 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:45 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:46 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:47 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:47 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:48 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:48 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:49 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:49 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:49 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:50 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:50 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:50 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:51 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:51 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:51 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:51 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:52 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:52 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:52 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:52 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:53 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:53 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[01-Jul-2017 08:42:53 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/Www2wController.php on line 56
+[03-Feb-2018 04:52:29 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:52:30 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:52:31 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:52:31 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:53:16 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:53:16 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:53:17 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:53:19 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:53:21 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:53:23 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:53:25 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:53:27 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 04:53:28 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 15
+[03-Feb-2018 05:53:36 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 61
+[03-Feb-2018 05:53:39 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/UsersController.php on line 61
+[15-Jun-2019 10:31:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 13
+[15-Jun-2019 10:36:52 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 10:44:35 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 10:45:38 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 10:45:40 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 10:55:26 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 13
+[15-Jun-2019 10:56:08 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 13
+[15-Jun-2019 10:56:11 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 13
+[15-Jun-2019 10:56:13 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 13
+[15-Jun-2019 10:56:52 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 10:57:30 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 10:57:31 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 10:57:35 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 10:57:56 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 10:58:17 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 10:58:22 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 14
+[15-Jun-2019 11:09:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 21
+[15-Jun-2019 11:15:31 UTC] PHP Parse error:  syntax error, unexpected '$v2' (T_VARIABLE) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 19
+[15-Jun-2019 11:16:10 UTC] PHP Parse error:  syntax error, unexpected '$v2' (T_VARIABLE) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 19
+[15-Jun-2019 11:16:14 UTC] PHP Parse error:  syntax error, unexpected '$v2' (T_VARIABLE) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 19
+[15-Jun-2019 11:16:16 UTC] PHP Parse error:  syntax error, unexpected '$v2' (T_VARIABLE) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 19
+[15-Jun-2019 11:16:16 UTC] PHP Parse error:  syntax error, unexpected '$v2' (T_VARIABLE) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 19
+[15-Jun-2019 11:16:17 UTC] PHP Parse error:  syntax error, unexpected '$v2' (T_VARIABLE) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 19
+[15-Jun-2019 11:16:20 UTC] PHP Parse error:  syntax error, unexpected '$v2' (T_VARIABLE) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 19
+[15-Jun-2019 11:20:04 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 21
+[15-Jun-2019 11:20:07 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportController.php on line 21
+[15-Jun-2019 23:16:05 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/TagsController.php on line 11
+[29-Jun-2019 01:25:44 UTC] PHP Parse error:  syntax error, unexpected ',', expecting '(' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/RecordsTag.php on line 24
+[29-Jun-2019 01:25:46 UTC] PHP Parse error:  syntax error, unexpected ',', expecting '(' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/RecordsTag.php on line 24
+[29-Jun-2019 15:08:39 UTC] PHP Fatal error:  Cannot redeclare class Sport in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Structures.php on line 0
+[29-Jun-2019 15:09:21 UTC] PHP Fatal error:  Cannot redeclare class Sport in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Structures.php on line 0
+[29-Jun-2019 15:09:25 UTC] PHP Fatal error:  Cannot redeclare class Sport in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Structures.php on line 0
+[29-Jun-2019 15:09:30 UTC] PHP Fatal error:  Cannot redeclare class Sport in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Structures.php on line 0
+[29-Jun-2019 15:09:33 UTC] PHP Fatal error:  Cannot redeclare class Sport in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Structures.php on line 0
+[29-Jun-2019 15:10:30 UTC] PHP Fatal error:  Cannot redeclare class Structure in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Structures.php on line 0
+[29-Jun-2019 15:11:25 UTC] PHP Fatal error:  Cannot redeclare class Structure in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Structures.php on line 0
+[29-Jun-2019 15:11:29 UTC] PHP Fatal error:  Cannot redeclare class Structure in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Structures.php on line 0
+[30-Jun-2019 00:43:12 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 53
+[30-Jun-2019 08:53:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/CapsulesController.php on line 42
+[30-Jun-2019 08:54:00 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/CapsulesController.php on line 42
+[30-Jun-2019 09:18:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/CapsulesController.php on line 6
+[20-Oct-2019 02:50:00 UTC] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 39
+[20-Oct-2019 02:56:22 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:56:23 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:56:58 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:01 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:02 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:03 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:03 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:04 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:04 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:05 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:06 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:06 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:07 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:30 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:31 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 02:57:31 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:00:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:00:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:00:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:01:59 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:02:01 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:02:01 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:02:02 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:02:34 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:02:35 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:02:36 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:02:39 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 03:02:42 UTC] PHP Fatal error:  Cannot access empty property in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 40
+[20-Oct-2019 06:26:41 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportDesignerController.php on line 5
+[21-Oct-2019 08:50:47 UTC] PHP Parse error:  syntax error, unexpected '$e' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 227
+[21-Oct-2019 09:07:56 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 225
+[21-Oct-2019 09:52:24 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 236
+[21-Oct-2019 09:52:27 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 236
+[21-Oct-2019 09:52:50 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 236
+[21-Oct-2019 09:52:53 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 236
+[21-Oct-2019 09:53:11 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 236
+[21-Oct-2019 09:53:14 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 236
+[21-Oct-2019 09:53:16 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 236
+[21-Oct-2019 09:53:17 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 236
+[21-Oct-2019 09:53:18 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 236
+[21-Oct-2019 09:53:22 UTC] PHP Fatal error:  Cannot use object of type MongoId as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 236
+[21-Oct-2019 13:21:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 242
+[21-Oct-2019 23:10:48 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 56
+[12-Jan-2020 00:13:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 31
+[12-Jan-2020 00:13:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 31
+[12-Jan-2020 00:54:58 UTC] PHP Fatal error:  Call to undefined function var_dupm() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 63
+[12-Jan-2020 00:55:36 UTC] PHP Fatal error:  Call to undefined function var_dupm() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 63
+[12-Jan-2020 00:55:38 UTC] PHP Fatal error:  Call to undefined function var_dupm() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 63
+[12-Jan-2020 00:55:50 UTC] PHP Fatal error:  Call to undefined function var_dupm() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 63
+[12-Jan-2020 00:55:53 UTC] PHP Fatal error:  Call to undefined function var_dupm() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 63
+[12-Jan-2020 00:55:54 UTC] PHP Fatal error:  Call to undefined function var_dupm() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 63
+[12-Jan-2020 00:55:55 UTC] PHP Fatal error:  Call to undefined function var_dupm() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 63
+[12-Jan-2020 00:55:58 UTC] PHP Fatal error:  Call to undefined function var_dupm() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 63
+[12-Jan-2020 00:55:58 UTC] PHP Fatal error:  Call to undefined function var_dupm() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 63
+[12-Jan-2020 06:21:33 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 127
+[12-Jan-2020 06:21:35 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SportsController.php on line 127
+[13-Jan-2020 01:00:12 UTC] PHP Fatal error:  Call to undefined function contains() in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 39
+[13-Jan-2020 01:02:23 UTC] PHP Fatal error:  Call to a member function contains() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SportDisc.php on line 39
+[17-Apr-2020 21:43:08 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/StructuresController.php on line 10
+[17-Apr-2020 21:43:10 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/StructuresController.php on line 10
+[17-Apr-2020 21:43:11 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/StructuresController.php on line 10
+[17-Apr-2020 21:43:11 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/StructuresController.php on line 10
+[14-Apr-2022 02:00:00 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:01 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:36 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:50 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:52 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:52 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:53 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:53 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:53 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:53 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:54 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:56 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 02:00:58 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 249
+[14-Apr-2022 11:19:13 UTC] PHP Fatal error:  Function name must be a string in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 168
+[14-Apr-2022 11:19:25 UTC] PHP Fatal error:  Function name must be a string in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 168
+[14-Apr-2022 11:45:12 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:45:13 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:45:14 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:45:14 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:45:14 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:45:15 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:45:15 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:46:14 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:46:14 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:46:14 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:46:15 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:46:15 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:46:16 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 11:46:16 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/BottlesController.php on line 167
+[14-Apr-2022 21:44:32 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:55 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:57 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:57 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:57 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:57 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:58 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:58 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:58 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:58 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:58 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:59 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:59 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:44:59 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:00 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:00 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:00 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:01 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:01 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:01 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:01 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:02 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:02 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:02 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:02 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:02 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:03 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:03 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:03 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:03 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:03 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:03 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:04 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:04 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:04 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:04 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:05 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:05 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:05 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:05 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:06 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:06 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:06 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:06 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:07 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:07 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:07 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:07 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:07 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:08 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:08 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:08 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:08 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:09 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:09 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:09 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:09 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:09 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:10 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:10 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:11 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:11 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:11 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:11 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:11 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:12 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:12 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:12 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:12 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:13 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:13 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:45:13 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 27
+[14-Apr-2022 21:52:24 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:27 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:28 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:29 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:30 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:39 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:40 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:40 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:40 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:41 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:41 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:41 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:42 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:42 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:42 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:42 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:43 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:43 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:43 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:44 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:44 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:44 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:44 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:45 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:45 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:46 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:46 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:46 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[14-Apr-2022 21:52:47 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/Bottle.php on line 33
+[09-Oct-2022 07:25:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vps100825437/public_html/cakephp-2.4.4/app/Model/SailingShip.php on line 28
+[09-Oct-2022 07:46:13 UTC] PHP Fatal error:  Call to undefined function JSON_UNESCAPED_UNICODE() in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 7
+[10-Oct-2022 00:41:28 UTC] PHP Fatal error:  Call to a member function isset() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 71
+[10-Oct-2022 00:47:23 UTC] PHP Fatal error:  Call to a member function isset() on a non-object in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 71
+[10-Oct-2022 21:54:10 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 69
+[10-Oct-2022 21:54:36 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 69
+[10-Oct-2022 21:55:07 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 69
+[10-Oct-2022 21:55:39 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 69
+[10-Oct-2022 21:56:22 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 69
+[10-Oct-2022 21:56:37 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 69
+[10-Oct-2022 21:57:22 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 69
+[10-Oct-2022 21:59:45 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 69
+[10-Oct-2022 22:00:40 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ';' or '{' in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 69
+[03-Jan-2023 02:56:58 UTC] PHP Fatal error:  Cannot use object of type SailingShipsController as array in /home/vps100825437/public_html/cakephp-2.4.4/app/Controller/SailingShipsController.php on line 88
