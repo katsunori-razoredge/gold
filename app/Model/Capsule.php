@@ -45,12 +45,7 @@ class Capsule extends AppModel implements RzModelInterface {
 		$this->mongo = new Mongo();
 		$this->database = $this->mongo->selectDB('razoredge');
 		$this->collection = $this->database->selectCollection('capsule');
-		$id = null;
-		if ($id != null) {
-			$mongoCursor = $this->collection->find(array('_id' => new MongoID($id)));
-		} else {
-			$mongoCursor = $this->collection->find();
-		}
+		$mongoCursor = $this->collection->find()->skip($page * $limit)->limit($limit);
 		foreach ($mongoCursor as $document) {
 			array_push($reply, $document);
 		}
